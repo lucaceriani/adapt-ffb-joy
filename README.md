@@ -1,6 +1,7 @@
 ### Force feedback working with Microsoft Sidewinder Force Feedback Pro
 I forked for future ference. I found online the correct HEX file to make Force Feedback work reliabily.
 I tested with Microsoft Sidewinder Force Feedback Pro and it works perfectly.
+I do not take any credit, here's the [forum thread](https://dbb.d3k.org/viewtopic.php?f=8&t=19061&sid=c7d84d8b1fcb680d330c8b22fd5265b1&start=200#p348404).
 
 Below the orginal README.
 
