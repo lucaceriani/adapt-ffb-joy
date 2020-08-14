@@ -1,3 +1,11 @@
+### Force feedback working with Microsoft Sidewinder Force Feedback Pro
+I forked for future ference. I found online the correct HEX file to make Force Feedback work reliabily.
+I tested with Microsoft Sidewinder Force Feedback Pro and it works perfectly.
+
+Below the orginal README.
+
+***
+
 # What is Adapt-FFB-Joy #
 
 Adapt-FFB-Joy is an AVR microcontroller based device that looks like a joystick with advanced force feedback features in a Windows machine without need for installing any device drivers to PC.
